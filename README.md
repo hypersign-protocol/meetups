@@ -7,7 +7,7 @@ Hypersign is consititently working on SSI space for quite sometime and coming up
 ## Hypersign-SSI-Meetup 1.0 (06/09/2020)
 
 - Agend: General discussion about Self Soverign Identity and a quick exposure of Hypersign Studio and Explorer with a use case.
-- YouTube: 
+- YouTube: https://www.youtube.com/watch?v=pUAvnehBzG4
 - Medium: 
 
 
