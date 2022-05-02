@@ -1,4 +1,4 @@
-# meetups
+# Hypersign Meetups
 
 With the growth of World Wide Web, the digital identity space is growing at a massive pace. Due to this, there has been significant growth in many cases of user data hack, frauds and identity theft. The Self Sovereign Identity (SSI) intent to solve this problem by proposing a better way to implement digital identities solution. 
 
