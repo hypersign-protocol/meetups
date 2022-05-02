@@ -13,11 +13,13 @@ Hypersign is consistently working on SSI space for quite some time and coming up
 
 #### Post demo
 
-* Write a blog on medium talking about the demo.
+* Write a blog on https://labs.hypersign.id talking about the demo.
 * Mention questions/answers which are asked during the call.
 * Upload recording on YouTube channel.
 * Send email to all participants with links so that they can look at them later if they want.
 * Update this document as well.
+* Create a folder with name called `<title>-date`
+* Add all the resources (ReadMe, slide Deck, Youtube link of the video) in that folder.
 
 ## Hypersign-SSI-Meetup 1.0 (06/09/2020)
 
