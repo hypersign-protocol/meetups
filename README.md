@@ -2,7 +2,7 @@
 
 With the growth of World Wide Web, the digital identity space is growing at a massive pace. Due to this, there has been significant growth in many cases of user data hack, frauds and identity theft. The Self Sovereign Identity (SSI) intent to solve this problem by proposing a better way to implement digital identities solution. 
 
-Hypersign is consistently working on SSI space for quite some time and coming up with a global decentralised identity network built on Cosmos SDK. We invite you to join the meetup and build a trustless and open community to discuss SSI, its use cases and how Hypersign is implementing this network.
+Hypersign is consistently working on SSI space for quite some time and coming up with a global decentralised identity network built on Cosmos SDK. We invite you to join the meetup and build a trustless and open community to discuss SSI, its use cases and how Hypersign is implementing this network. Learn more about Hypersign Identity Network https://github.com/hypersign-protocol/hid-node
 
 ### Things to do when conducting a meetup or demo
 
