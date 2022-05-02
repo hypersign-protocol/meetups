@@ -18,7 +18,7 @@ Hypersign is consistently working on SSI space for quite some time and coming up
 * Upload recording on YouTube channel.
 * Send email to all participants with links so that they can look at them later if they want.
 * Update this document as well.
-* Create a folder with name called `<title>-date`
+* **IMP**: Create a folder with name called `<title>-date`
   * Example, if the title is "Hypersign ssi meetup" and date is "06/08/2020"
   * Then the folder name would be `hypersign-ssi-meetup-06-08-2020`
 * Add all the resources (ReadMe, slide Deck, Youtube link of the video) in that folder.
